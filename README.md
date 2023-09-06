@@ -1,7 +1,7 @@
 :expressionless: I should have uploaded more own projetcs to Github. 
 
 ### Hi there 👋
-### :tada: Welcome to my profile. I'm Lucas Oliveira, and I work as software developer at Doutor ao Vivo.
+### :tada: Welcome to my profile. I'm Lucas Oliveira, and I work as software developer at Grupo Gera.
 
 
 :boom:
